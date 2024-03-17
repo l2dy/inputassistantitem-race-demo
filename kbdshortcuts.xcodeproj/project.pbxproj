@@ -13,6 +13,7 @@
 		880CFAAA2BA717C4002ADE89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880CFAA82BA717C4002ADE89 /* Main.storyboard */; };
 		880CFAAC2BA717C6002ADE89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 880CFAAB2BA717C6002ADE89 /* Assets.xcassets */; };
 		880CFAAF2BA717C6002ADE89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 880CFAAD2BA717C6002ADE89 /* LaunchScreen.storyboard */; };
+		880CFAB72BA7181D002ADE89 /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880CFAB62BA7181D002ADE89 /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		880CFAAB2BA717C6002ADE89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		880CFAAE2BA717C6002ADE89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		880CFAB02BA717C6002ADE89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		880CFAB62BA7181D002ADE89 /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				880CFAAB2BA717C6002ADE89 /* Assets.xcassets */,
 				880CFAAD2BA717C6002ADE89 /* LaunchScreen.storyboard */,
 				880CFAB02BA717C6002ADE89 /* Info.plist */,
+				880CFAB62BA7181D002ADE89 /* MyTextView.swift */,
 			);
 			path = kbdshortcuts;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				880CFAA72BA717C4002ADE89 /* ViewController.swift in Sources */,
+				880CFAB72BA7181D002ADE89 /* MyTextView.swift in Sources */,
 				880CFAA32BA717C4002ADE89 /* AppDelegate.swift in Sources */,
 				880CFAA52BA717C4002ADE89 /* SceneDelegate.swift in Sources */,
 			);
